@@ -3,7 +3,7 @@
 # Splatterhouse RPG FC: English Translation
 
 ## About
-This repository contains source code for patches and tools to compile an English translation of Splatterhouse RPG for the Famicom.
+This repository contains source code to help create an English translation of the Splatterhouse RPG for the Famicom.
 
 ## Folders
 * roms
@@ -26,4 +26,5 @@ This repository contains source code for patches and tools to compile an English
 		* Script dumper and inserter
 	* xkas+
 		* Applies the assembly patches
+
 
