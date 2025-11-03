@@ -1,0 +1,13 @@
+zzz_misc
+
+*.db
+*.deb
+*.lnk
+*.db:encryptable
+*.deb
+*.cdl
+*:Zone.Identifier
+*.nes
+*.xlsx
+
+*.dmp

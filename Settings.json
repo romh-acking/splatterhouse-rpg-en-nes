@@ -1,0 +1,313 @@
+{
+  "spiroVersion": 3,
+  "files": {
+    "Original": ".\\roms\\Splatterworld_ROM.nes",
+    "New": ".\\roms\\Splatterworld (NEW).nes"
+  },
+  "scripts": {
+    "scriptPath": ".\\script\\script.json",
+    "original": true,
+    "comment": false,
+    "new": true,
+    "bytes": false,
+    "menu": false,
+    "proof": false
+  },
+  "misc": {
+    "blankOutTextDataAfterRead": true,
+    "blankOutByte": "0x62",
+    "getFileToWritePointerFromPointersField": false,
+	"includedPointerMetadata": true,
+	"mirrorOriginalToNewOnDump": true,
+	"allowDuplicateDictionaryString": true
+  },
+  "scriptManager": {
+    "writeScript": "./Write.bat",
+    "displayReplace": [
+      {
+        "find": "\\(LINE\\)",
+        "replace": "\r\n"
+      }
+    ]
+  },
+  "pointers": {
+    "read&Write": {
+	  "Dictionary E2": {
+        "file": "Original",
+        "pointerFormat": {
+          "addresses": [
+            "0x017779"
+          ],
+          "pcDifference": "+0x0001799C-0x998C",
+          "addressConversion": "None",
+          "entryNumber": "256",
+          "pointerType": "littleEndian",
+          "pointerLength": 2,
+          "placementStrategy": "inOrder",
+          "subentryKeyPrefix": "dictionary1"
+        },
+        "renderFormat": {
+          "dialogueReadType": "HasDelimiter",
+          "delimiters": [
+            "(Dictionary Delimiter)"
+          ],
+          "renderType": "Dictionary",
+          "dictionaryInteractions": [
+            "CHR",
+			"ControlCode"
+          ],
+          "isDictionary": true,
+		  "tables": {
+			"main": {
+				"isMain": true,
+				"chrFile": ".\\tables\\CHR",
+                "dictionaryFile": ".\\tables\\Dictionary"
+			},
+		  },
+          "chrFile": ".\\tables\\CHR",
+          "pixelsPerLine": 224,
+          "autoLineBreak": "none",
+		  "includeRedirects": true,
+          "findAndReplaceFile": ".\\tables\\SquishyText",
+          "findAndReplaceStrategy": "squishyText"
+        }
+      },
+	  "Dictionary E3": {
+        "file": "Original",
+        "pointerFormat": {
+          "addresses": [
+            "0x011BAD"
+          ],
+          "pcDifference": "+0x00011C65-0x9C55",
+          "addressConversion": "None",
+          "entryNumber": "91",
+          "pointerType": "littleEndian",
+          "pointerLength": 2,
+          "placementStrategy": "inOrder",
+          "subentryKeyPrefix": "dictionary2"
+        },
+        "renderFormat": {
+          "dialogueReadType": "HasDelimiter",
+          "delimiters": [
+            "(Dictionary Delimiter)"
+          ],
+          "renderType": "Dictionary",
+          "dictionaryInteractions": [
+            "CHR",
+			"ControlCode"
+          ],
+          "isDictionary": true,
+		  "tables": {
+			"main": {
+				"isMain": true,
+				"chrFile": ".\\tables\\CHR",
+                "dictionaryFile": ".\\tables\\Dictionary"
+			},
+		  },
+          "chrFile": ".\\tables\\CHR",
+          "pixelsPerLine": 224,
+          "autoLineBreak": "none",
+		  "includeRedirects": true,
+          "findAndReplaceFile": ".\\tables\\SquishyText",
+          "findAndReplaceStrategy": "squishyText"
+        }
+      },
+      "Dialogue #1": {
+        "file": "Original",
+        "pointerFormat": {
+          "addresses": [
+            "0x01202e"
+          ],
+          "pcDifference": "+0x0001227A-0x826A",
+          "addressConversion": "None",
+          "entryNumber": "252",
+          "pointerType": "littleEndian",
+          "pointerLength": 2,
+          "placementStrategy": "inOrder",
+          "subentryKeyPrefix": "dialogue1"
+        },
+        "renderFormat": {
+          "dialogueReadType": "HasDelimiter",
+          "delimiters": [
+            "(END)"
+          ],
+          "renderType": "Dictionary",
+          "dictionaryInteractions": [
+            "CHR",
+			"Dictionary",
+			"ControlCode"
+          ],
+          "isDictionary": false,
+		  "tables": {
+			"main": {
+				"isMain": true,
+				"chrFile": ".\\tables\\CHR",
+                "dictionaryFile": ".\\tables\\Dictionary"
+			},
+		  },
+          "chrFile": ".\\tables\\CHR",
+          "pixelsPerLine": 224,
+          "autoLineBreak": "none",
+		  "includeRedirects": true,
+          "findAndReplaceFile": ".\\tables\\SquishyText",
+          "findAndReplaceStrategy": "squishyText"
+        }
+      },
+      "Dialogue #2": {
+        "file": "Original",
+        "pointerFormat": {
+          "addresses": [
+            "0x014030"
+          ],
+          "pcDifference": "+0x00014865-0x8855",
+          "addressConversion": "None",
+          "entryNumber": "146",
+          "pointerType": "littleEndian",
+          "pointerLength": 2,
+          "placementStrategy": "inOrder",
+          "subentryKeyPrefix": "dialogue2"
+        },
+        "renderFormat": {
+          "dialogueReadType": "HasDelimiter",
+          "delimiters": [
+            "(END)"
+          ],
+          "renderType": "Dictionary",
+          "dictionaryInteractions": [
+            "CHR",
+			"Dictionary",
+			"ControlCode"
+          ],
+          "isDictionary": false,
+		  "tables": {
+			"main": {
+				"isMain": true,
+				"chrFile": ".\\tables\\CHR",
+                "dictionaryFile": ".\\tables\\Dictionary"
+			},
+		  },
+          "chrFile": ".\\tables\\CHR",
+          "pixelsPerLine": 224,
+          "autoLineBreak": "none",
+		  "includeRedirects": true,
+          "findAndReplaceFile": ".\\tables\\SquishyText",
+          "findAndReplaceStrategy": "squishyText"
+        }
+      },
+      "Dialogue #3": {
+        "file": "Original",
+        "pointerFormat": {
+          "addresses": [
+            "0x01003E"
+          ],
+          "pcDifference": "+0x00010770-0x8760",
+          "addressConversion": "None",
+          "entryNumber": "206",
+          "pointerType": "littleEndian",
+          "pointerLength": 2,
+          "placementStrategy": "inOrder",
+          "subentryKeyPrefix": "dialogue3"
+        },
+        "renderFormat": {
+          "dialogueReadType": "HasDelimiter",
+          "delimiters": [
+            "(END)",
+			"(Code F0)",
+			"(Code FA)"
+          ],
+          "renderType": "Dictionary",
+          "dictionaryInteractions": [
+            "CHR",
+			"Dictionary",
+			"ControlCode"
+          ],
+          "isDictionary": false,
+		  "tables": {
+			"main": {
+				"isMain": true,
+				"chrFile": ".\\tables\\CHR",
+                "dictionaryFile": ".\\tables\\Dictionary"
+			},
+		  },
+          "chrFile": ".\\tables\\CHR",
+          "pixelsPerLine": 224,
+          "autoLineBreak": "none",
+		  "includeRedirects": true,
+          "findAndReplaceFile": ".\\tables\\SquishyText",
+          "findAndReplaceStrategy": "squishyText"
+        }
+      },
+    }
+  },
+  "write": {
+    "writeableRange": {
+      "Range-00": {
+        "file": "New",
+        "startAddress": "0x0101F3",
+        "size": "0x106E"
+      },
+      "Range-01": {
+        "file": "New",
+        "startAddress": "0x011C65",
+        "size": "0x2D6"
+      },
+      "Range-02": {
+        "file": "New",
+        "startAddress": "0x012226",
+        "size": "0x1C7E"
+      },
+      "Range-03": {
+        "file": "New",
+        "startAddress": "0x014165",
+        "size": "0x1E76"
+      },
+      "Range-04": {
+        "file": "New",
+        "startAddress": "0x017979",
+        "size": "0x692"
+      },
+    },
+    "writeRegion": [
+      {
+        "entryOwners": [
+          "Dialogue #3",
+        ],
+        "writeableAddressRanges": [
+          "Range-00",
+        ]
+      },
+      {
+        "entryOwners": [
+		  "Dictionary E3",
+        ],
+        "writeableAddressRanges": [
+		  "Range-01",
+        ]
+      },
+      {
+        "entryOwners": [
+          "Dialogue #1",
+        ],
+        "writeableAddressRanges": [
+          "Range-02",
+        ]
+      },
+      {
+        "entryOwners": [
+          "Dialogue #2"
+        ],
+        "writeableAddressRanges": [
+          "Range-03"
+        ]
+      },
+      {
+        "entryOwners": [
+          "Dictionary E2"
+        ],
+        "writeableAddressRanges": [
+          "Range-04"
+        ]
+      },
+    ]
+  }
+}
