@@ -15389,6 +15389,3083 @@
           }
         }
       }
+    },
+    "Dialogue #4": {
+      "pointerTable": {
+        "0x016030": {
+          "pointerTableEntry": {
+            "0": {
+              "subentries": {
+                "dialogue4_000000": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016030",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x3D"
+                  },
+                  "text": {
+                    "Original": "(Code F0)<label id=\"dialogue4_000001\">おまえたち よそものだな(LINE)(PAGE)ここ 「ネクロマンス」 では(LINE)おそろしい びょうきが はやっている(LINE)(PAGE)おまえたちも かんせんしているんじゃないか？(LINE)(END)",
+                    "New": "(Code F0)<label id=\"dialogue4_000001\">TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "1": {
+              "subentries": {
+                "dialogue4_000001G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016032",
+                    "textLocation": "0x0161A7",
+                    "byteLength": "0x3C"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000001"
+                }
+              }
+            },
+            "2": {
+              "subentries": {
+                "dialogue4_000002": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016034",
+                    "textLocation": "0x0161E3",
+                    "byteLength": "0x53"
+                  },
+                  "text": {
+                    "Original": "おそろしい！！(LINE)(PAGE)にんげんの おなかに かいぶつが きせいしていて(LINE)おおきくなると おなかを やぶってでてくる(LINE)(PAGE)おまえたち おなかに かいぶつが(LINE)きせいしていないだろうな(LINE)(END)",
+                    "New": "TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "3": {
+              "subentries": {
+                "dialogue4_000003": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016036",
+                    "textLocation": "0x016236",
+                    "byteLength": "0x34"
+                  },
+                  "text": {
+                    "Original": "「ギボゲラー」さんは きげんのいいとき(LINE)「しんれいちりょう」 を してくれるの(LINE)(PAGE)どんなびょうきも なおしてくれるんだって！(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "4": {
+              "subentries": {
+                "dialogue4_000004": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016038",
+                    "textLocation": "0x01626A",
+                    "byteLength": "0x58"
+                  },
+                  "text": {
+                    "Original": "「すいしょうだま」 を ひろったのは いいが(LINE)(PAGE)きたのまち「カーズタウン」 で 「ゾンビ」 に(LINE)おそわれて うばわれてしまった！(LINE)(PAGE)たしか へんな かんばんの ビルの(LINE)ちかくだったなー(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "5": {
+              "subentries": {
+                "dialogue4_000005": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01603A",
+                    "textLocation": "0x0162C2",
+                    "byteLength": "0x31"
+                  },
+                  "text": {
+                    "Original": "わたしは みました(LINE)(PAGE)そらとぶえんばんを．．．(LINE)あれは ぜったい そらとぶえんばんですよ(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "6": {
+              "subentries": {
+                "dialogue4_000006": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01603C",
+                    "textLocation": "0x0162F3",
+                    "byteLength": "0x3C"
+                  },
+                  "text": {
+                    "Original": "となりまち「カーズタウン」 は(LINE)(PAGE)「ドクターウエスト」 の じっけんで(LINE)かいめつしました(LINE)(PAGE)「カーズタウン」 は かいぶつや ゾンビに(LINE)せんりょうされています(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "7": {
+              "subentries": {
+                "dialogue4_000007": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01603E",
+                    "textLocation": "0x01632F",
+                    "byteLength": "0x16"
+                  },
+                  "text": {
+                    "Original": "ちかづくなー！(LINE)おまえら びょうきだろー(LINE)(END)",
+                    "New": "TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "8": {
+              "subentries": {
+                "dialogue4_000008": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016040",
+                    "textLocation": "0x016345",
+                    "byteLength": "0x33"
+                  },
+                  "text": {
+                    "Original": "しんよう できない(LINE)もう わたしは だれも しんよう できない(LINE)(PAGE)ひとを みたら びょうきと おもえ！(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "9": {
+              "subentries": {
+                "dialogue4_000009": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016042",
+                    "textLocation": "0x016378",
+                    "byteLength": "0x26"
+                  },
+                  "text": {
+                    "Original": "「ギボゲラー」さんの 「しんれいちりょう」 を(LINE)うけたら びょうきは なおるかも．．．(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "10": {
+              "subentries": {
+                "dialogue4_000010": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016044",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "11": {
+              "subentries": {
+                "dialogue4_000011": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016046",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "12": {
+              "subentries": {
+                "dialogue4_000012": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016048",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "13": {
+              "subentries": {
+                "dialogue4_000013": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01604A",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "14": {
+              "subentries": {
+                "dialogue4_000014": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01604C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "15": {
+              "subentries": {
+                "dialogue4_000015": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01604E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "16": {
+              "subentries": {
+                "dialogue4_000016": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016050",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "17": {
+              "subentries": {
+                "dialogue4_000017": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016052",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "18": {
+              "subentries": {
+                "dialogue4_000018": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016054",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "19": {
+              "subentries": {
+                "dialogue4_000019": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016056",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "20": {
+              "subentries": {
+                "dialogue4_000020": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016058",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "21": {
+              "subentries": {
+                "dialogue4_000021": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01605A",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "22": {
+              "subentries": {
+                "dialogue4_000022": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01605C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "23": {
+              "subentries": {
+                "dialogue4_000023": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01605E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "24": {
+              "subentries": {
+                "dialogue4_000024": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016060",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "25": {
+              "subentries": {
+                "dialogue4_000025": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016062",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "26": {
+              "subentries": {
+                "dialogue4_000026": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016064",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "27": {
+              "subentries": {
+                "dialogue4_000027": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016066",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "28": {
+              "subentries": {
+                "dialogue4_000028": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016068",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "29": {
+              "subentries": {
+                "dialogue4_000029": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01606A",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "30": {
+              "subentries": {
+                "dialogue4_000030": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01606C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "31": {
+              "subentries": {
+                "dialogue4_000031": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01606E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "32": {
+              "subentries": {
+                "dialogue4_000032": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016070",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "33": {
+              "subentries": {
+                "dialogue4_000033": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016072",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "34": {
+              "subentries": {
+                "dialogue4_000034": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016074",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "35": {
+              "subentries": {
+                "dialogue4_000035": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016076",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "36": {
+              "subentries": {
+                "dialogue4_000036": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016078",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "37": {
+              "subentries": {
+                "dialogue4_000037": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01607A",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "38": {
+              "subentries": {
+                "dialogue4_000038": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01607C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "39": {
+              "subentries": {
+                "dialogue4_000039": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01607E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "40": {
+              "subentries": {
+                "dialogue4_000040": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016080",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "41": {
+              "subentries": {
+                "dialogue4_000041": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016082",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "42": {
+              "subentries": {
+                "dialogue4_000042": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016084",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "43": {
+              "subentries": {
+                "dialogue4_000043": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016086",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "44": {
+              "subentries": {
+                "dialogue4_000044": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016088",
+                    "textLocation": "0x01639E",
+                    "byteLength": "0x29"
+                  },
+                  "text": {
+                    "Original": "こどもの 「れいこん」 の こえがきこえた(LINE)(PAGE)もう 「つみきのおもちゃ」 で あそべないよ(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "45": {
+              "subentries": {
+                "dialogue4_000045": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01608A",
+                    "textLocation": "0x0163C7",
+                    "byteLength": "0x46"
+                  },
+                  "text": {
+                    "Original": "(Code E0){20}{00}ぼくは かいぶつに たべられたんだ！(LINE)「こじいん」 の みんなが あぶない(LINE)(PAGE)ぼくは 「こじいん」 の だれが かいぶつか(LINE)しっているよ！(LINE)(END)",
+                    "New": "(Code E0){20}{00}TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "46": {
+              "subentries": {
+                "dialogue4_000046": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01608C",
+                    "textLocation": "0x01640D",
+                    "byteLength": "0x14"
+                  },
+                  "text": {
+                    "Original": "こどもの 「れいこん」 が とりついた！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "47": {
+              "subentries": {
+                "dialogue4_000047": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01608E",
+                    "textLocation": "0x016421",
+                    "byteLength": "0x1E"
+                  },
+                  "text": {
+                    "Original": "おまえだー！(LINE)おまえが ぼくを たべたんだー！(LINE)(END)",
+                    "New": "TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "48": {
+              "subentries": {
+                "dialogue4_000048": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016090",
+                    "textLocation": "0x01643F",
+                    "byteLength": "0x10"
+                  },
+                  "text": {
+                    "Original": "おにいちゃんたち(LINE)ウマソー！(LINE)(END)",
+                    "New": "TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "49": {
+              "subentries": {
+                "dialogue4_000049": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016092",
+                    "textLocation": "0x01644F",
+                    "byteLength": "0x1B"
+                  },
+                  "text": {
+                    "Original": "こどもの こえがきこえた(LINE)おにいちゃんたち ありがとう！(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "50": {
+              "subentries": {
+                "dialogue4_000050": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016094",
+                    "textLocation": "0x01646A",
+                    "byteLength": "0x23"
+                  },
+                  "text": {
+                    "Original": "せいふが このまちに 「ぐんたい」 を(LINE)はけんして くれたわ！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "51": {
+              "subentries": {
+                "dialogue4_000051": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016096",
+                    "textLocation": "0x01648D",
+                    "byteLength": "0x0C"
+                  },
+                  "text": {
+                    "Original": "なんだ あれはー！(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "52": {
+              "subentries": {
+                "dialogue4_000052": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016098",
+                    "textLocation": "0x016499",
+                    "byteLength": "0x0C"
+                  },
+                  "text": {
+                    "Original": "おらだ おらだよ(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "53": {
+              "subentries": {
+                "dialogue4_000053": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01609A",
+                    "textLocation": "0x0164A5",
+                    "byteLength": "0x7C"
+                  },
+                  "text": {
+                    "Original": "ノーマの 「こうじょう」で 「はいえきプール」 に(LINE)おちた 「メルトン」だよ(LINE)(PAGE)「はいえき」 の えいきょうで(LINE)こんな すがたに なってしまっただ(LINE)(PAGE)これも すべて 「ドクターウエスト」 の せいだ(LINE)ぜったい ゆるせないだ(LINE)(PAGE)じぶんも 「ドクターウエスト」 を さがすだ(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "54": {
+              "subentries": {
+                "dialogue4_000054": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01609C",
+                    "textLocation": "0x016521",
+                    "byteLength": "0x11"
+                  },
+                  "text": {
+                    "Original": "「メルトン」 が なかまになった(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "55": {
+              "subentries": {
+                "dialogue4_000055": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01609E",
+                    "textLocation": "0x016532",
+                    "byteLength": "0x65"
+                  },
+                  "text": {
+                    "Original": "おれさまが この「ぐんたい」で(LINE)(PAGE)いちばんえらい 「コマンダー」 だ(LINE)おれさまには わかるぞ(LINE)(PAGE)おまえたちは にんげんの フリを(LINE)している かいぶつだな(LINE)(PAGE)<label id=\"dialogue4_000056\">こいつらを 「バズーカ」 でうて(LINE)かまえ！(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)<label id=\"dialogue4_000056\">TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "56": {
+              "subentries": {
+                "dialogue4_000056G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160A0",
+                    "textLocation": "0x01657D",
+                    "byteLength": "0x1A"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000056"
+                }
+              }
+            },
+            "57": {
+              "subentries": {
+                "dialogue4_000057": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160A2",
+                    "textLocation": "0x016597",
+                    "byteLength": "0x08"
+                  },
+                  "text": {
+                    "Original": "ファイヤー！(LINE)(END)",
+                    "New": "TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "58": {
+              "subentries": {
+                "dialogue4_000058": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160A4",
+                    "textLocation": "0x01659F",
+                    "byteLength": "0x07"
+                  },
+                  "text": {
+                    "Original": "うわぁー！(LINE)(END)",
+                    "New": "TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "59": {
+              "subentries": {
+                "dialogue4_000059": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160A6",
+                    "textLocation": "0x0165A6",
+                    "byteLength": "0x16"
+                  },
+                  "text": {
+                    "Original": "「バズーカ」 が きかんとは．．．(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "60": {
+              "subentries": {
+                "dialogue4_000060": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160A8",
+                    "textLocation": "0x0165BC",
+                    "byteLength": "0x0F"
+                  },
+                  "text": {
+                    "Original": "おまえたちを いかしちゃおけん！(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "61": {
+              "subentries": {
+                "dialogue4_000061": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160AA",
+                    "textLocation": "0x0165CB",
+                    "byteLength": "0xE5"
+                  },
+                  "text": {
+                    "Original": "そのマスクは．．．(LINE)(PAGE)「ヘルマスク」 ！(LINE)(PAGE)どうやら おまえたちは まだ 「ヘルマスク」 の(LINE)ほんとうの もくてきを しらないようだな．．．(LINE)(PAGE)おまえたちに ヒントをやろう！(LINE)(PAGE)ひがしのひみつきちの 「サンジェルマン」さまが(LINE)「ヘルマスク」 の ひみつを にぎっている(LINE)(PAGE)「サンジェルマン」さまは あの「ノセタラダマス」 の(LINE)うまれかわりなのだ(LINE)(PAGE)もうすぐ 「サンジェルマン」さまの(LINE)じゅもんで まかいから(LINE)(PAGE)かいぶつを よびだされる(LINE)(PAGE)これで せかいは かいぶつたちに しはいされる(LINE)(PAGE)クッ クククッ(LINE)(PAGE)ハッ ハハハッ(LINE)(PAGE)ヒッ ヒヒヒッ．．．(LINE)(END)",
+                    "New": "TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "62": {
+              "subentries": {
+                "dialogue4_000062": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160AC",
+                    "textLocation": "0x0166B0",
+                    "byteLength": "0x69"
+                  },
+                  "text": {
+                    "Original": "わたしは あの「ノセタラダマス」 の(LINE)うまれかわり 「サンジェルマン」(LINE)(PAGE)わたしは じゅもんで まかいの あらゆる(LINE)かいぶつを しょうかんするのだ(LINE)(PAGE)「ヘルマスク」 の ひみつが しりたいだと．．．(LINE)(PAGE)おまえたちは わたしのじゅもんの(LINE)いけにえに なるのだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "63": {
+              "subentries": {
+                "dialogue4_000063": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160AE",
+                    "textLocation": "0x016719",
+                    "byteLength": "0xFB"
+                  },
+                  "text": {
+                    "Original": "「ノセタラダマス」 の うまれかわりというのは(LINE)ウソです ハクが つくかなーと おもって(LINE)(PAGE)<label id=\"dialogue4_000064\">たすけてくださいよー(LINE)(PAGE)そのかわり 「ヘルマスク」 の ひみつを おしえるから(LINE)   はい        いいえ(Branch){FB}{46}<label id=\"dialogue4_000065\">(Code F2)「ヘルマスク」 の ひみつは 「ノセタラダマス」 の(LINE)「よげんのしょ」 の げんぽんに かいてある(LINE)(PAGE)わたしが しっているのは なにかを よびだすために(LINE)おおむかしの ひとが つくりだしたらしい(LINE)(PAGE)「よげんのしょ」 は 「ソーンとう」 の(LINE)「カーミラ」 という おんなのひとが もっている(LINE)(PAGE)「ソーンとう」 へは 「ノーマ」 の りょうしが(LINE)ふねを だしてくれるはずだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)<label id=\"dialogue4_000064\">TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)   TEST        TEST(Branch){FB}{46}<label id=\"dialogue4_000065\">(Code F2)TEST TEST TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "64": {
+              "subentries": {
+                "dialogue4_000064G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160B0",
+                    "textLocation": "0x016742",
+                    "byteLength": "0xD2"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000064"
+                }
+              }
+            },
+            "65": {
+              "subentries": {
+                "dialogue4_000065G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160B2",
+                    "textLocation": "0x01676D",
+                    "byteLength": "0xA7"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000065"
+                }
+              }
+            },
+            "66": {
+              "subentries": {
+                "dialogue4_000066": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160B4",
+                    "textLocation": "0x016814",
+                    "byteLength": "0x08"
+                  },
+                  "text": {
+                    "Original": "(Code F2)たのむ(LINE)(Code FA){44}(END)",
+                    "New": "(Code F2)TEST(LINE)(Code FA){44}(END)"
+                  }
+                }
+              }
+            },
+            "67": {
+              "subentries": {
+                "dialogue4_000067": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160B6",
+                    "textLocation": "0x01681C",
+                    "byteLength": "0x58"
+                  },
+                  "text": {
+                    "Original": "いまのうちに．．．(LINE)くすりで かいふくだ！(LINE)(PAGE)おまえたちに れいこん「のろい」 を(LINE)とりつかせてやろう！(LINE)(PAGE)ソベデ チャンカーノ エマーオ(LINE)ソベデ チャンカーノ エマーオ(LINE)(END)",
+                    "New": "TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "68": {
+              "subentries": {
+                "dialogue4_000068": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160B8",
+                    "textLocation": "0x016874",
+                    "byteLength": "0x2F"
+                  },
+                  "text": {
+                    "Original": "「こじいん」 で かいぶつを(LINE)かくまっているという じょうほうを えた！(LINE)(PAGE)おまえたちだな！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "69": {
+              "subentries": {
+                "dialogue4_000069": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160BA",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "70": {
+              "subentries": {
+                "dialogue4_000070": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160BC",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "71": {
+              "subentries": {
+                "dialogue4_000071": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160BE",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "72": {
+              "subentries": {
+                "dialogue4_000072": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160C0",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "73": {
+              "subentries": {
+                "dialogue4_000073": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160C2",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "74": {
+              "subentries": {
+                "dialogue4_000074": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160C4",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "75": {
+              "subentries": {
+                "dialogue4_000075": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160C6",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "76": {
+              "subentries": {
+                "dialogue4_000076": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160C8",
+                    "textLocation": "0x0168A3",
+                    "byteLength": "0x36"
+                  },
+                  "text": {
+                    "Original": "みっみえるわ！(LINE)(PAGE)みらいの えいぞうが みえるわ！！(LINE)(PAGE)あぶない 「ママディー」さん！(LINE)「こじいん」が かいぶつに おそわれるわ！(LINE)(END)",
+                    "New": "TEST(LINE)(PAGE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "77": {
+              "subentries": {
+                "dialogue4_000077": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160CA",
+                    "textLocation": "0x0168A3",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000076"
+                }
+              }
+            },
+            "78": {
+              "subentries": {
+                "dialogue4_000078": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160CC",
+                    "textLocation": "0x0168D9",
+                    "byteLength": "0x14"
+                  },
+                  "text": {
+                    "Original": "オレは ママを たすけに いくぜ！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "79": {
+              "subentries": {
+                "dialogue4_000079": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160CE",
+                    "textLocation": "0x0168ED",
+                    "byteLength": "0x17"
+                  },
+                  "text": {
+                    "Original": "おらが「ママディー」 さんを(LINE)たすけに いくだ！(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "80": {
+              "subentries": {
+                "dialogue4_000080": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160D0",
+                    "textLocation": "0x016904",
+                    "byteLength": "0x6D"
+                  },
+                  "text": {
+                    "Original": "どうして ぼくの(LINE)「れいのうりょく」 でも へいきなの？(LINE)(PAGE)ぼくを イジメに きたの？(LINE)   はい        いいえ(Branch){FB}{56}<label id=\"dialogue4_000081\">(Code F2)(Code E0){22}{01}おねがい もう イジメないで．．．(LINE)もう ぼくは ちからを おさえ．ら．れな．い．よ．．．(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)   TEST        TEST(Branch){FB}{56}<label id=\"dialogue4_000081\">(Code F2)(Code E0){22}{01}TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "81": {
+              "subentries": {
+                "dialogue4_000081G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160D2",
+                    "textLocation": "0x01693C",
+                    "byteLength": "0x35"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000081"
+                }
+              }
+            },
+            "82": {
+              "subentries": {
+                "dialogue4_000082": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160D4",
+                    "textLocation": "0x016971",
+                    "byteLength": "0x26"
+                  },
+                  "text": {
+                    "Original": "(Code F2)よかった！(LINE)(PAGE)えっ ともだちに なってくれるって！(LINE)ほっ ほんとうなの？(LINE)(END)",
+                    "New": "(Code F2)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "83": {
+              "subentries": {
+                "dialogue4_000083": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160D6",
+                    "textLocation": "0x016997",
+                    "byteLength": "0x31"
+                  },
+                  "text": {
+                    "Original": "おねがい もう イジメないで．．．(LINE)もう ぼくは ちからを おさえ．ら．れな．い．よ．．．(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "84": {
+              "subentries": {
+                "dialogue4_000084": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160D8",
+                    "textLocation": "0x0169C8",
+                    "byteLength": "0x8E"
+                  },
+                  "text": {
+                    "Original": "(Code E0){2F}{01}まさか また ぼくを だまそうと．．．(LINE)(PAGE)イジメっこに とりあげられた ぼくの たからものの(LINE)(PAGE)「うでどけい」 を とりかえしてくれたら(LINE)しんじるよ！(LINE)(PAGE)あいつらは 「ゴキブリ」 が(LINE)だいきらいなんだ(LINE)(PAGE)「ゴキブリ」 なら 「いんせき」 の おちた(LINE)もりのちかくに たくさん いるよ(LINE)(END)",
+                    "New": "(Code E0){2F}{01}TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "85": {
+              "subentries": {
+                "dialogue4_000085": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160DA",
+                    "textLocation": "0x016A56",
+                    "byteLength": "0x7E"
+                  },
+                  "text": {
+                    "Original": "ほっ ほんとうに とりかえしてきてくれたんだ！(LINE)(PAGE)うたがって ごめんよ ゆるして．．．(LINE)(PAGE)もう ぼくは ひとりぼっちじゃないんだ(LINE)(PAGE)ぼくの ふしぎなちからを(LINE)みんなのために やくだてよう！(LINE)(PAGE)さあ 「いんせき」 を しまつしに いこう！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "86": {
+              "subentries": {
+                "dialogue4_000086": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160DC",
+                    "textLocation": "0x016AD4",
+                    "byteLength": "0x12"
+                  },
+                  "text": {
+                    "Original": "「ダミやん」 が なかまになった！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "87": {
+              "subentries": {
+                "dialogue4_000087": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160DE",
+                    "textLocation": "0x016AE6",
+                    "byteLength": "0x1A"
+                  },
+                  "text": {
+                    "Original": "ア アリだ！ アリが おおきく なっている！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "88": {
+              "subentries": {
+                "dialogue4_000088": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160E0",
+                    "textLocation": "0x016B00",
+                    "byteLength": "0x2B"
+                  },
+                  "text": {
+                    "Original": "いんせきが ブキミな ひかりを はなっている！(LINE)まぶしすぎて ちかづけない！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "89": {
+              "subentries": {
+                "dialogue4_000089": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160E2",
+                    "textLocation": "0x016B2B",
+                    "byteLength": "0x1D"
+                  },
+                  "text": {
+                    "Original": "なんとっ ちかくにいた「ゴキブリ」 が(LINE)おおきくなった！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "90": {
+              "subentries": {
+                "dialogue4_000090": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160E4",
+                    "textLocation": "0x016B48",
+                    "byteLength": "0x20"
+                  },
+                  "text": {
+                    "Original": "「ダミやん」 が れいのうりょくで(LINE)「いんせき」 の ひかりを ふうじた(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "91": {
+              "subentries": {
+                "dialogue4_000091": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160E6",
+                    "textLocation": "0x016B68",
+                    "byteLength": "0x5C"
+                  },
+                  "text": {
+                    "Original": "「いんせき」 を はこびだした(LINE)(PAGE)さぁ 「いんせき」 を(LINE)「かざんかこう」 に すてにいこう！(LINE)(PAGE)このしまの みなみに 「かざんかこう」 に(LINE)つうじている 「どうくつ」 が あるんだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "92": {
+              "subentries": {
+                "dialogue4_000092": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160E8",
+                    "textLocation": "0x016BC4",
+                    "byteLength": "0x2B"
+                  },
+                  "text": {
+                    "Original": "「いんせき」 を かこうにすてた！(LINE)もう これで きょだいせいぶつは ふえない！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "93": {
+              "subentries": {
+                "dialogue4_000093": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160EA",
+                    "textLocation": "0x016BEF",
+                    "byteLength": "0x3C"
+                  },
+                  "text": {
+                    "Original": "「ダミやん」 の くせに 「うでどけい」 を(LINE)もっているなんて なまいきよ！(LINE)(PAGE)わたしが もらってやるわ！(LINE)「うでどけい」 を おわたし！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "94": {
+              "subentries": {
+                "dialogue4_000094": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160EC",
+                    "textLocation": "0x016C2B",
+                    "byteLength": "0x25"
+                  },
+                  "text": {
+                    "Original": "また やまのもりに なきにいったのね(LINE)まったく よわむし なんだから(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "95": {
+              "subentries": {
+                "dialogue4_000095": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160EE",
+                    "textLocation": "0x016C50",
+                    "byteLength": "0x35"
+                  },
+                  "text": {
+                    "Original": "キャー (LINE)「ゴキブリ」 ！(LINE)(PAGE)やめて おねがい(LINE)わたし 「ゴキブリ」 だけは．．．(LINE)(PAGE)「うでどけい」 は かえすわ！(LINE)(END)",
+                    "New": "TEST (LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "96": {
+              "subentries": {
+                "dialogue4_000096": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160F0",
+                    "textLocation": "0x016C85",
+                    "byteLength": "0x2E"
+                  },
+                  "text": {
+                    "Original": "ほんとうは わたし 「ダミやん」 の(LINE)ことが すきだったの(LINE)(PAGE)だから イジメたくなって．．．(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "97": {
+              "subentries": {
+                "dialogue4_000097": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160F2",
+                    "textLocation": "0x016CB3",
+                    "byteLength": "0x0D"
+                  },
+                  "text": {
+                    "Original": "「うでどけい」 を てに いれた(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "98": {
+              "subentries": {
+                "dialogue4_000098": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160F4",
+                    "textLocation": "0x016CC0",
+                    "byteLength": "0x36"
+                  },
+                  "text": {
+                    "Original": "わたしは このやかたの もちぬし「カーミラ」(LINE)(PAGE)「ち」 が ほしい！(LINE)とくに わかい おとこの「ち」 が．．．(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "99": {
+              "subentries": {
+                "dialogue4_000099": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160F6",
+                    "textLocation": "0x016CF6",
+                    "byteLength": "0x1E"
+                  },
+                  "text": {
+                    "Original": "くっ くさい！(LINE)(PAGE)わたしは 「にんにく」 の においだけは．．．(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "100": {
+              "subentries": {
+                "dialogue4_000100": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160F8",
+                    "textLocation": "0x016D14",
+                    "byteLength": "0x91"
+                  },
+                  "text": {
+                    "Original": "よくも わたしのやかたを 「にんにく」 の においで(LINE)けがして くれたわね！(LINE)(PAGE)わたしは 「ドクターウエスト」 に(LINE)よみがえらせてもらった(LINE)(PAGE)このしまの でんせつの かいぶつ(LINE)おおかみミイラきゅうけつおんな「カーミラ」 よ！(LINE)(PAGE)わたしに かてば(LINE)「よげんのしょ」 を あげるわ(LINE)(PAGE)まければ わたしの えじきに なるのよ！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "101": {
+              "subentries": {
+                "dialogue4_000101": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160FA",
+                    "textLocation": "0x016DA5",
+                    "byteLength": "0x61"
+                  },
+                  "text": {
+                    "Original": "まけたわ！(LINE)(PAGE)「ドクターウエスト」 の(LINE)いばしょを おしえて あげるわ(LINE)(PAGE)「ウエストけんきゅうじょ」 は(LINE)(PAGE)「ネクロマンス」 さき 「カーズタウン」 の(LINE)にしに あるわ(LINE)(PAGE)ううっ(LINE)(PAGE)「ち」 が ほしい！(LINE)とくに わかい おとこの「ち」 が．．．(LINE)(END)",
+                    "New": "TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "102": {
+              "subentries": {
+                "dialogue4_000102": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160FC",
+                    "textLocation": "0x016E06",
+                    "byteLength": "0x11"
+                  },
+                  "text": {
+                    "Original": "とても くさいにおいが する(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "103": {
+              "subentries": {
+                "dialogue4_000103": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0160FE",
+                    "textLocation": "0x016E17",
+                    "byteLength": "0x41"
+                  },
+                  "text": {
+                    "Original": "おかげで きょだいせいぶつは いなくなったわ(LINE)(PAGE)おれいに このしまの ラッキーなたべもの(LINE)「にんにく」 を あげるわ！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "104": {
+              "subentries": {
+                "dialogue4_000104": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016100",
+                    "textLocation": "0x016E58",
+                    "byteLength": "0x2D"
+                  },
+                  "text": {
+                    "Original": "「ノーマ」いきの ふねにのるかね？(LINE)   はい        いいえ(Branch){FB}{04}<label id=\"dialogue4_000105\">(Code F2)(Code E0){27}{01}のりな(LINE)ふねを だしてやる(LINE)(END)",
+                    "New": "TEST TEST(LINE)   TEST        TEST(Branch){FB}{04}<label id=\"dialogue4_000105\">(Code F2)(Code E0){27}{01}TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "105": {
+              "subentries": {
+                "dialogue4_000105G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016102",
+                    "textLocation": "0x016E71",
+                    "byteLength": "0x14"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000105"
+                }
+              }
+            },
+            "106": {
+              "subentries": {
+                "dialogue4_000106": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016104",
+                    "textLocation": "0x016E85",
+                    "byteLength": "0x29"
+                  },
+                  "text": {
+                    "Original": "「ネクロマンス」いきの ふねに のる？(LINE)   はい        いいえ(Branch){FB}{04}<label id=\"dialogue4_000107\">(Code F2)(Code E0){28}{01}ふねを だしてあげるわ！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)   TEST        TEST(Branch){FB}{04}<label id=\"dialogue4_000107\">(Code F2)(Code E0){28}{01}TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "107": {
+              "subentries": {
+                "dialogue4_000107G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016106",
+                    "textLocation": "0x016E9A",
+                    "byteLength": "0x14"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000107"
+                }
+              }
+            },
+            "108": {
+              "subentries": {
+                "dialogue4_000108": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016108",
+                    "textLocation": "0x016EAE",
+                    "byteLength": "0x11"
+                  },
+                  "text": {
+                    "Original": "れいこん「ゴキブリ」 が チャネリングした！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "109": {
+              "subentries": {
+                "dialogue4_000109": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01610A",
+                    "textLocation": "0x016EBF",
+                    "byteLength": "0x2E"
+                  },
+                  "text": {
+                    "Original": "「はなれじま」 の かいぶつを(LINE)たいじしてくれたのね(LINE)ありがとう！(LINE)(PAGE)(Code FA){6E}<label id=\"dialogue4_000124\">そっ そらとぶえんばんだー(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST(LINE)TEST(LINE)(PAGE)(Code FA){6E}<label id=\"dialogue4_000124\">TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "110": {
+              "subentries": {
+                "dialogue4_000110": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01610C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "111": {
+              "subentries": {
+                "dialogue4_000111": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01610E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "112": {
+              "subentries": {
+                "dialogue4_000112": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016110",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "113": {
+              "subentries": {
+                "dialogue4_000113": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016112",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "114": {
+              "subentries": {
+                "dialogue4_000114": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016114",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "115": {
+              "subentries": {
+                "dialogue4_000115": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016116",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "116": {
+              "subentries": {
+                "dialogue4_000116": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016118",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "117": {
+              "subentries": {
+                "dialogue4_000117": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01611A",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "118": {
+              "subentries": {
+                "dialogue4_000118": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01611C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "119": {
+              "subentries": {
+                "dialogue4_000119": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01611E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "120": {
+              "subentries": {
+                "dialogue4_000120": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016120",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "121": {
+              "subentries": {
+                "dialogue4_000121": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016122",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "122": {
+              "subentries": {
+                "dialogue4_000122": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016124",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "123": {
+              "subentries": {
+                "dialogue4_000123": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016126",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "124": {
+              "subentries": {
+                "dialogue4_000124G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016128",
+                    "textLocation": "0x016EDB",
+                    "byteLength": "0x12"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000124"
+                }
+              }
+            },
+            "125": {
+              "subentries": {
+                "dialogue4_000125": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01612A",
+                    "textLocation": "0x016EED",
+                    "byteLength": "0x27"
+                  },
+                  "text": {
+                    "Original": "んっ？(LINE)(Code F3){02}(Code F2)ここは．．．(LINE)いったい なにが．．．(LINE)(PAGE)きおくが ない！(LINE)(END)",
+                    "New": "TEST(LINE)(Code F3){02}(Code F2)TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "126": {
+              "subentries": {
+                "dialogue4_000126": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01612C",
+                    "textLocation": "0x016F14",
+                    "byteLength": "0x22"
+                  },
+                  "text": {
+                    "Original": "うーん(LINE)(PAGE)うーん おなかが．．．(LINE)(PAGE)おなかが はれつ した！(LINE)(END)",
+                    "New": "TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "127": {
+              "subentries": {
+                "dialogue4_000127": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01612E",
+                    "textLocation": "0x016F36",
+                    "byteLength": "0x14"
+                  },
+                  "text": {
+                    "Original": "グビビッ バリッ(LINE)(Code F3){02}(Code F0)<label id=\"dialogue4_000128\">ホホホホッ(LINE)(END)",
+                    "New": "TEST TEST(LINE)(Code F3){02}(Code F0)<label id=\"dialogue4_000128\">TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "128": {
+              "subentries": {
+                "dialogue4_000128G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016130",
+                    "textLocation": "0x016F46",
+                    "byteLength": "0x04"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000128"
+                }
+              }
+            },
+            "129": {
+              "subentries": {
+                "dialogue4_000129": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016132",
+                    "textLocation": "0x016F4A",
+                    "byteLength": "0x1A"
+                  },
+                  "text": {
+                    "Original": "ドアは ふしぎな きんぞくでできている(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "130": {
+              "subentries": {
+                "dialogue4_000130": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016134",
+                    "textLocation": "0x016F4A",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000129"
+                }
+              }
+            },
+            "131": {
+              "subentries": {
+                "dialogue4_000131": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016136",
+                    "textLocation": "0x016F64",
+                    "byteLength": "0x0D"
+                  },
+                  "text": {
+                    "Original": "「えんばん」 に のりこんだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "132": {
+              "subentries": {
+                "dialogue4_000132": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016138",
+                    "textLocation": "0x016F71",
+                    "byteLength": "0x1B"
+                  },
+                  "text": {
+                    "Original": "「えんばん」 が うごきだした！(LINE)とびたつようだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "133": {
+              "subentries": {
+                "dialogue4_000133": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01613A",
+                    "textLocation": "0x016F8C",
+                    "byteLength": "0x0B"
+                  },
+                  "text": {
+                    "Original": "おとしあなだー！(LINE)(END)",
+                    "New": "TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "134": {
+              "subentries": {
+                "dialogue4_000134": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01613C",
+                    "textLocation": "0x016F97",
+                    "byteLength": "0x32"
+                  },
+                  "text": {
+                    "Original": "じっけん じっけん！(LINE)(PAGE)このおんなのこと 「うちゅうかいぶつ」の(LINE)のうみそを とりかえてやろう！(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "135": {
+              "subentries": {
+                "dialogue4_000135": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01613E",
+                    "textLocation": "0x016FC9",
+                    "byteLength": "0x0F"
+                  },
+                  "text": {
+                    "Original": "うまく いくかな ワクワク(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "136": {
+              "subentries": {
+                "dialogue4_000136": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016140",
+                    "textLocation": "0x016FD8",
+                    "byteLength": "0x0A"
+                  },
+                  "text": {
+                    "Original": "だいせいこう！(LINE)(END)",
+                    "New": "TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "137": {
+              "subentries": {
+                "dialogue4_000137": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016142",
+                    "textLocation": "0x016FE2",
+                    "byteLength": "0x24"
+                  },
+                  "text": {
+                    "Original": "おんなのこの もとのからだは(LINE)(PAGE)「ドクターウエスト」 の もとに おくってやろう！(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "138": {
+              "subentries": {
+                "dialogue4_000138": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016144",
+                    "textLocation": "0x017006",
+                    "byteLength": "0x84"
+                  },
+                  "text": {
+                    "Original": "わたしの なまえは 「ギボゲラー」(LINE)「れいのうりょくしゃ」 です(LINE)(PAGE)わたしには みえます(LINE)(PAGE)あなたは びょうきに かかっていますね(LINE)すべての 「ホラー」 を くだされば(LINE)(PAGE)「しんれいちりょう」 を ほどこして あげます(LINE)   はい        いいえ(Branch){FB}{04}<label id=\"dialogue4_000139\">(Code F2)(Code E0){29}{01}みえます(LINE)(PAGE)あなたの こころのなか．．．(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)   TEST        TEST(Branch){FB}{04}<label id=\"dialogue4_000139\">(Code F2)(Code E0){29}{01}TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "139": {
+              "subentries": {
+                "dialogue4_000139G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016146",
+                    "textLocation": "0x017070",
+                    "byteLength": "0x1A"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000139"
+                }
+              }
+            },
+            "140": {
+              "subentries": {
+                "dialogue4_000140": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016148",
+                    "textLocation": "0x01708A",
+                    "byteLength": "0x13"
+                  },
+                  "text": {
+                    "Original": "えんばんに さらわれて いますね(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "141": {
+              "subentries": {
+                "dialogue4_000141": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01614A",
+                    "textLocation": "0x01709D",
+                    "byteLength": "0x16"
+                  },
+                  "text": {
+                    "Original": "かいぶつに たまごを うみつけられている！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "142": {
+              "subentries": {
+                "dialogue4_000142": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01614C",
+                    "textLocation": "0x0170B3",
+                    "byteLength": "0x34"
+                  },
+                  "text": {
+                    "Original": "わたしの れいのうりょくで あなたたちに(LINE)(PAGE)うみつけられた たまごを とりだして(LINE)あげましょう(LINE)(PAGE)いきます(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "143": {
+              "subentries": {
+                "dialogue4_000143": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01614E",
+                    "textLocation": "0x0170E7",
+                    "byteLength": "0x67"
+                  },
+                  "text": {
+                    "Original": "「すいしょうだま」 が あれば(LINE)わたしの れいのうりょく「れいし」 で(LINE)(PAGE)まちで はやっている びょうきに ついて(LINE)なにか わかると おもいますが(LINE)(PAGE)「すいしょうだま」 は 「カーズタウン」 に(LINE)いたころに なくしてしまったのです(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "144": {
+              "subentries": {
+                "dialogue4_000144": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016150",
+                    "textLocation": "0x01714E",
+                    "byteLength": "0x1A"
+                  },
+                  "text": {
+                    "Original": "これは わたしの 「すいしょうだま」 ！(LINE)(PAGE)「れいし」 します(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "145": {
+              "subentries": {
+                "dialogue4_000145": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016152",
+                    "textLocation": "0x017168",
+                    "byteLength": "0x19"
+                  },
+                  "text": {
+                    "Original": "みえます(LINE)あかいふく メガネ ビル おとこ(LINE)(END)",
+                    "New": "TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "146": {
+              "subentries": {
+                "dialogue4_000146": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016154",
+                    "textLocation": "0x017181",
+                    "byteLength": "0x3B"
+                  },
+                  "text": {
+                    "Original": "かなしげに 「リック」 を みている(LINE)かいぶつ「ベム」 が いる(LINE)(PAGE)「リック」 は それが(LINE)「ジェニファー」だと わかった(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "147": {
+              "subentries": {
+                "dialogue4_000147": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016156",
+                    "textLocation": "0x0171BC",
+                    "byteLength": "0x0E"
+                  },
+                  "text": {
+                    "Original": "ぬけあなが みつかった(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "148": {
+              "subentries": {
+                "dialogue4_000148": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016158",
+                    "textLocation": "0x0171BC",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000147"
+                }
+              }
+            },
+            "149": {
+              "subentries": {
+                "dialogue4_000149": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01615A",
+                    "textLocation": "0x0171BC",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000147"
+                }
+              }
+            },
+            "150": {
+              "subentries": {
+                "dialogue4_000150": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01615C",
+                    "textLocation": "0x0171CA",
+                    "byteLength": "0x10"
+                  },
+                  "text": {
+                    "Original": "おまえたち どうしてここに．．．(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "151": {
+              "subentries": {
+                "dialogue4_000151": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01615E",
+                    "textLocation": "0x0171DA",
+                    "byteLength": "0x40"
+                  },
+                  "text": {
+                    "Original": "おまえたち これから わたしたちの わくせいに(LINE)(PAGE)つれていかれて そこで ペットになるか(LINE)しょくりょうに なるの．．．(LINE)(PAGE)ホホホホッ(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "152": {
+              "subentries": {
+                "dialogue4_000152": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016160",
+                    "textLocation": "0x01721A",
+                    "byteLength": "0x01"
+                  },
+                  "text": {
+                    "Original": "(END)",
+                    "New": "(END)"
+                  }
+                }
+              }
+            },
+            "153": {
+              "subentries": {
+                "dialogue4_000153": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016162",
+                    "textLocation": "0x01721B",
+                    "byteLength": "0x29"
+                  },
+                  "text": {
+                    "Original": "「えんばん」 を そうじゅうするキカイだ！(LINE)(PAGE)はかいしますか？(LINE)   はい        いいえ(Branch){FB}{04}<label id=\"dialogue4_000154\">(Code E0){2A}{01}(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST(LINE)   TEST        TEST(Branch){FB}{04}<label id=\"dialogue4_000154\">(Code E0){2A}{01}(END)"
+                  }
+                }
+              }
+            },
+            "154": {
+              "subentries": {
+                "dialogue4_000154G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016164",
+                    "textLocation": "0x017240",
+                    "byteLength": "0x04"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000154"
+                }
+              }
+            },
+            "155": {
+              "subentries": {
+                "dialogue4_000155": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016166",
+                    "textLocation": "0x017244",
+                    "byteLength": "0x0E"
+                  },
+                  "text": {
+                    "Original": "「えんばん」 は ついらくする！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "156": {
+              "subentries": {
+                "dialogue4_000156": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016168",
+                    "textLocation": "0x017252",
+                    "byteLength": "0x13"
+                  },
+                  "text": {
+                    "Original": "おなかから むしが でてきた！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "157": {
+              "subentries": {
+                "dialogue4_000157": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01616A",
+                    "textLocation": "0x017265",
+                    "byteLength": "0x31"
+                  },
+                  "text": {
+                    "Original": "きがついたわね ホホホホッ(LINE)そうわたしが にんげんどもに(LINE)(PAGE)たまごを うみつけていたのよ！(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "158": {
+              "subentries": {
+                "dialogue4_000158": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01616C",
+                    "textLocation": "0x017296",
+                    "byteLength": "0x1A"
+                  },
+                  "text": {
+                    "Original": "わたしは  びょうきが(LINE)こわいので そとにでません！(LINE)(END)",
+                    "New": "TEST  TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "159": {
+              "subentries": {
+                "dialogue4_000159": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01616E",
+                    "textLocation": "0x0172B0",
+                    "byteLength": "0x5D"
+                  },
+                  "text": {
+                    "Original": "おっ おひさしぶりです(LINE)「ローガン」 です(LINE)(PAGE)ついに 「ゾンビそうち」 が(LINE)かんせいしました(LINE)(PAGE)かんせいしたことは したのですが(LINE)(PAGE)うごかすには 「ヘルマスク」 の(LINE)ちからが ひつようです(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "160": {
+              "subentries": {
+                "dialogue4_000160": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016170",
+                    "textLocation": "0x01730D",
+                    "byteLength": "0x6D"
+                  },
+                  "text": {
+                    "Original": "これでゾンビを あやつって (LINE)「ウエストけんきゅうじょ」 を はかいできます(LINE)(PAGE)「ウエストけんきゅうじょ」 には(LINE)(PAGE)「よげんのしょ」 が ないと(LINE)しんにゅうできません！(LINE)(PAGE)おねがいです．．．(LINE)(PAGE)「ドクターウエスト」 の やぼうを．．．(LINE)(PAGE)せかいをすくって．．． ガクッ(LINE)(END)",
+                    "New": "TEST TEST (LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "161": {
+              "subentries": {
+                "dialogue4_000161": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016172",
+                    "textLocation": "0x01737A",
+                    "byteLength": "0x0D"
+                  },
+                  "text": {
+                    "Original": "「ゾンビそうち」を てにいれた(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "162": {
+              "subentries": {
+                "dialogue4_000162": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016174",
+                    "textLocation": "0x017387",
+                    "byteLength": "0x19"
+                  },
+                  "text": {
+                    "Original": "「ローガンはかせ」 は(LINE)「ゾンビ」 と なって よみがえった(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "163": {
+              "subentries": {
+                "dialogue4_000163": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016176",
+                    "textLocation": "0x0173A0",
+                    "byteLength": "0x9B"
+                  },
+                  "text": {
+                    "Original": "すべて わかりました！(LINE)(PAGE)このまちに はやっている びょうきは すべて(LINE)(PAGE)うちゅうかいぶつ「クイーンエックス」 の(LINE)しわざです(LINE)(PAGE)「クイーンエックス」 は 「ドクターウエスト」 と(LINE)(PAGE)てを むすび ちきゅうを じぶんの ほしと(LINE)おなじ かんきょうに かいぞうしようとしています(LINE)(PAGE)「クイーンエックス」 は きたの 「どうくつ」 に(LINE)「えんばん」 を かくしています(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "164": {
+              "subentries": {
+                "dialogue4_000164": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016178",
+                    "textLocation": "0x01743B",
+                    "byteLength": "0x10"
+                  },
+                  "text": {
+                    "Original": "「すいしょうだま」 を てに いれた！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "165": {
+              "subentries": {
+                "dialogue4_000165": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01617A",
+                    "textLocation": "0x01744B",
+                    "byteLength": "0x25"
+                  },
+                  "text": {
+                    "Original": "「ウエストけんきゅうじょ」 には(LINE)(PAGE)「よげんのしょ」 が ないと(LINE)しんにゅうできなーい ゲロッ(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "166": {
+              "subentries": {
+                "dialogue4_000166": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01617C",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "167": {
+              "subentries": {
+                "dialogue4_000167": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01617E",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "168": {
+              "subentries": {
+                "dialogue4_000168": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016180",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "169": {
+              "subentries": {
+                "dialogue4_000169": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016182",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "170": {
+              "subentries": {
+                "dialogue4_000170": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016184",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "171": {
+              "subentries": {
+                "dialogue4_000171": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016186",
+                    "textLocation": "0x0161A6",
+                    "byteLength": "0x00"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000000"
+                }
+              }
+            },
+            "172": {
+              "subentries": {
+                "dialogue4_000172": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016188",
+                    "textLocation": "0x017470",
+                    "byteLength": "0x15"
+                  },
+                  "text": {
+                    "Original": "「リック」 は 「ゾンビそうち」 を つかった！(LINE)(END)",
+                    "New": "TEST TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "173": {
+              "subentries": {
+                "dialogue4_000173": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01618A",
+                    "textLocation": "0x017485",
+                    "byteLength": "0x19"
+                  },
+                  "text": {
+                    "Original": "ウフフフッ(LINE)(PAGE)わたしよ わたし(LINE)「ジェニファー」 よ！(LINE)(END)",
+                    "New": "TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "174": {
+              "subentries": {
+                "dialogue4_000174": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01618C",
+                    "textLocation": "0x01749E",
+                    "byteLength": "0x29"
+                  },
+                  "text": {
+                    "Original": "「ベム」 が しゃべった！(LINE)(PAGE)わたしの からだよ！(LINE)(PAGE)わたしの からだを かえして！(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "175": {
+              "subentries": {
+                "dialogue4_000175": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01618E",
+                    "textLocation": "0x0174C7",
+                    "byteLength": "0x13"
+                  },
+                  "text": {
+                    "Original": "「よげんのしょ」 が かってに ひらいた(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "176": {
+              "subentries": {
+                "dialogue4_000176": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016190",
+                    "textLocation": "0x0174DA",
+                    "byteLength": "0x4A"
+                  },
+                  "text": {
+                    "Original": "さあ 「ドクターウエスト」 の(LINE)バリアーを やぶってやろう(LINE)(PAGE)せかいの うんめいは おまえたちが にぎっている(LINE)わたしのよげんを だんじて あてては ならんぞ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "177": {
+              "subentries": {
+                "dialogue4_000177": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016192",
+                    "textLocation": "0x017524",
+                    "byteLength": "0x50"
+                  },
+                  "text": {
+                    "Original": "ついに ここまで きたな！(LINE)(PAGE)ことごとく わしの せかいせいふくさくせんを(LINE)つぶしてくれたな(LINE)(PAGE)もっとも そんなことは けいさんの(LINE)うちだったのだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "178": {
+              "subentries": {
+                "dialogue4_000178": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016194",
+                    "textLocation": "0x017574",
+                    "byteLength": "0x2D"
+                  },
+                  "text": {
+                    "Original": "よくぞ わしのロボットを たおした(LINE)いままでの からだは ロボットだったのだ(LINE)(END)",
+                    "New": "TEST TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "179": {
+              "subentries": {
+                "dialogue4_000179": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016196",
+                    "textLocation": "0x0175A1",
+                    "byteLength": "0xBD"
+                  },
+                  "text": {
+                    "Original": "ほうびに どうして わしが おまえに(LINE)「ヘルマスク」 を わたしたか おしえてやるのだ(LINE)(PAGE)そのマスクは にんげんの にくしみを(LINE)たくわえるはたらきが あるのだ(LINE)(PAGE)マスクが にくしみで いっぱいに なったとき(LINE)だいまおうが ふっかつし にんげんは(LINE)(PAGE)ぜつめつするのだ(LINE)(PAGE)そのあとの せかいは このわし(LINE)「ドクターウエスト」 の ものに なるのだ(LINE)(PAGE)わっははは にくめ にくめ にくむのだ(LINE)(END)",
+                    "New": "TEST TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST(LINE)(PAGE)TEST TEST TEST(LINE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "180": {
+              "subentries": {
+                "dialogue4_000180": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x016198",
+                    "textLocation": "0x01765E",
+                    "byteLength": "0x2F"
+                  },
+                  "text": {
+                    "Original": "うぅぅぅー(LINE)せかいは わしのもの わしの．．．(LINE)(PAGE)だれにも わ．た．さ．ん．．ぞ．．．(LINE)(END)",
+                    "New": "TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "181": {
+              "subentries": {
+                "dialogue4_000181": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01619A",
+                    "textLocation": "0x01768D",
+                    "byteLength": "0x53"
+                  },
+                  "text": {
+                    "Original": "わたしは 「ノセタラダマス」(LINE)(PAGE)いまから ４００ねんまえに 「ドクターウエスト」 の(LINE)(PAGE)しゅつげんを よげんし(LINE)みらいのせかいを すくうために(LINE)(PAGE)じぶんの からだを(LINE)この「よげんのしょ」 に ふういんしたのだ(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST(LINE)(PAGE)TEST TEST(LINE)TEST TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "182": {
+              "subentries": {
+                "dialogue4_000182": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01619C",
+                    "textLocation": "0x0176E0",
+                    "byteLength": "0x49"
+                  },
+                  "text": {
+                    "Original": "「ジェニファー」 ！(LINE)わたしの かわいい しそんよ(LINE)(PAGE)ほんらいあるべきもとの からだに もどしてやろう！(LINE)(PAGE)<label id=\"dialogue4_000183\">わたしを 「ドクターウエスト」 の(LINE)もとに つれていくのだ(LINE)(END)",
+                    "New": "TEST TEST(LINE)TEST TEST TEST(LINE)(PAGE)TEST TEST TEST(LINE)(PAGE)<label id=\"dialogue4_000183\">TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "183": {
+              "subentries": {
+                "dialogue4_000183G": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x01619E",
+                    "textLocation": "0x017711",
+                    "byteLength": "0x18"
+                  },
+                  "text": {
+                    "Original": null,
+                    "New": null
+                  },
+                  "samePointerAs": "dialogue4_000183"
+                }
+              }
+            },
+            "184": {
+              "subentries": {
+                "dialogue4_000184": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0161A0",
+                    "textLocation": "0x017729",
+                    "byteLength": "0x0B"
+                  },
+                  "text": {
+                    "Original": "オレに まかせろ！(LINE)(END)",
+                    "New": "TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "185": {
+              "subentries": {
+                "dialogue4_000185": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0161A2",
+                    "textLocation": "0x017734",
+                    "byteLength": "0x2F"
+                  },
+                  "text": {
+                    "Original": "ねむれ ねむれ(LINE)(PAGE)ほーら おまえは いま しごとを おえて(LINE)おうちにかえろうと している(LINE)(END)",
+                    "New": "TEST TEST(LINE)(PAGE)TEST TEST TEST TEST TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            },
+            "186": {
+              "subentries": {
+                "dialogue4_000186": {
+                  "metadata": {
+                    "file": "Original",
+                    "pointerLocation": "0x0161A4",
+                    "textLocation": "0x017763",
+                    "byteLength": "0x16"
+                  },
+                  "text": {
+                    "Original": "んごー(LINE)おうちに か．えら．な．きゃー(LINE)(END)",
+                    "New": "TEST(LINE)TEST TEST(LINE)(END)"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
     }
   }
 }

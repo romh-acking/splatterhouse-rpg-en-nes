@@ -237,6 +237,47 @@
           "findAndReplaceStrategy": "squishyText"
         }
       },
+      "Dialogue #4": {
+        "file": "Original",
+        "pointerFormat": {
+          "addresses": [
+            "0x016030"
+          ],
+          "pcDifference": "+0x161A7-0x8197",
+          "addressConversion": "None",
+          "entryNumber": "187",
+          "pointerType": "littleEndian",
+          "pointerLength": 2,
+          "placementStrategy": "inOrder",
+          "subentryKeyPrefix": "dialogue4"
+        },
+        "renderFormat": {
+          "dialogueReadType": "HasDelimiter",
+          "delimiters": [
+            "(END)",
+          ],
+          "renderType": "Dictionary",
+          "dictionaryInteractions": [
+            "CHR",
+			"Dictionary",
+			"ControlCode"
+          ],
+          "isDictionary": false,
+		  "tables": {
+			"main": {
+				"isMain": true,
+				"chrFile": ".\\tables\\CHR",
+                "dictionaryFile": ".\\tables\\Dictionary"
+			},
+		  },
+          "chrFile": ".\\tables\\CHR",
+          "pixelsPerLine": 224,
+          "autoLineBreak": "none",
+		  "includeRedirects": true,
+          "findAndReplaceFile": ".\\tables\\SquishyText",
+          "findAndReplaceStrategy": "squishyText"
+        }
+      },
     }
   },
   "write": {
@@ -265,6 +306,11 @@
         "file": "New",
         "startAddress": "0x017979",
         "size": "0x692"
+      },
+      "Range-05": {
+        "file": "New",
+        "startAddress": "0x0161A6",
+        "size": "0x15D3"
       },
     },
     "writeRegion": [
@@ -306,6 +352,14 @@
         ],
         "writeableAddressRanges": [
           "Range-04"
+        ]
+      },
+      {
+        "entryOwners": [
+          "Dialogue #4",
+        ],
+        "writeableAddressRanges": [
+          "Range-05",
         ]
       },
     ]
